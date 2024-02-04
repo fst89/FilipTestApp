@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FilipTestApp</string>
+    <string name="error_message">An error has occurred: \n</string>
+    <string name="opened_issues">%d opened issues</string>
+    <string name="opened_issue">%d opened issue</string>
+
+    <string name="forks_text">Forks: %d</string>
+    <string name="watchers_text">Watchers: %d</string>
+
+    <string name="tag_name_text">Tag: %s</string>
+    <string name="sha_text">SHA: %s</string>
+</resources>
